@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(29, 2, 2);
+    overflow: hidden;
+}
+
+canvas{
+    background: rgb(166, 255, 2);
+}
